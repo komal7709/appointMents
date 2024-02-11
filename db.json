@@ -1,0 +1,51 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ],
+  "bookings": [
+    {
+      "name": "ross",
+      "email": "john@gmail.com",
+      "mobile": "123098",
+      "gender": "male",
+      "date": "2023-10-20",
+      "id": 8
+    },
+    {
+      "name": "anvii",
+      "email": "john@gmail.com",
+      "mobile": 123123123,
+      "gender": "female",
+      "date": "2023-10-20",
+      "id": 9
+    },
+    {
+      "name": "komal",
+      "email": "kjadhav@gmail.com",
+      "mobile": "126845",
+      "gender": "female",
+      "date": "2023-10-20",
+      "id": 10
+    },
+    {
+      "name": "kate",
+      "email": "kate@gmail.com",
+      "mobile": "126845",
+      "gender": "male",
+      "date": "2023-10-20",
+      "id": 11
+    },
+    {
+      "name": "jhon",
+      "email": "jhon@gmail.com",
+      "mobile": "9876543",
+      "gender": "male",
+      "date": "2023-10-20",
+      "id": 12
+    }
+  ]
+}
